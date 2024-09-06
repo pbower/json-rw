@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: better-json
+Name: better_json
 Version: 0.1.0
 Summary: A streamlined JSON read/write handler
 Home-page: https://github.com/pbower/better-json

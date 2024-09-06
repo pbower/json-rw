@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='better-json',
+    name='better_json',
     version='0.1.0',
     description='A streamlined JSON read/write handler',
     long_description=open('README.md').read(),

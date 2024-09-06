@@ -1,8 +1,11 @@
 LICENSE
 README.md
 setup.py
-better-json/__init__.py
+better_json/__init__.py
 better_json.egg-info/PKG-INFO
 better_json.egg-info/SOURCES.txt
 better_json.egg-info/dependency_links.txt
 better_json.egg-info/top_level.txt
+dist/better_json-0.1.0-py3-none-any.whl
+dist/better_json-0.1.0.tar.gz
+tests/test_better_json.py
